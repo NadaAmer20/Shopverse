@@ -1,0 +1,15 @@
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\obj\Debug\net8.0\Shopverse.Application.csproj.AssemblyReference.cache
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\obj\Debug\net8.0\Shopverse.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\obj\Debug\net8.0\Shopverse.Application.AssemblyInfoInputs.cache
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\obj\Debug\net8.0\Shopverse.Application.AssemblyInfo.cs
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\obj\Debug\net8.0\Shopverse.Application.csproj.CoreCompileInputs.cache
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\bin\Debug\net8.0\Shopverse.Application.deps.json
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\bin\Debug\net8.0\Shopverse.Application.dll
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\bin\Debug\net8.0\Shopverse.Application.pdb
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\bin\Debug\net8.0\Shopverse.Domain.dll
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\bin\Debug\net8.0\Shopverse.Domain.pdb
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\obj\Debug\net8.0\Shopvers.6D2CEADD.Up2Date
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\obj\Debug\net8.0\Shopverse.Application.dll
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\obj\Debug\net8.0\refint\Shopverse.Application.dll
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\obj\Debug\net8.0\Shopverse.Application.pdb
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\obj\Debug\net8.0\ref\Shopverse.Application.dll

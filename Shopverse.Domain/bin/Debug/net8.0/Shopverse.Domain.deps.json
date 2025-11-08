@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Shopverse.Domain/1.0.0": {
+        "runtime": {
+          "Shopverse.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shopverse.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

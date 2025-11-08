@@ -1,0 +1,11 @@
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\bin\Debug\net8.0\Shopverse.Domain.deps.json
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\bin\Debug\net8.0\Shopverse.Domain.dll
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\bin\Debug\net8.0\Shopverse.Domain.pdb
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\obj\Debug\net8.0\Shopverse.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\obj\Debug\net8.0\Shopverse.Domain.AssemblyInfoInputs.cache
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\obj\Debug\net8.0\Shopverse.Domain.AssemblyInfo.cs
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\obj\Debug\net8.0\Shopverse.Domain.csproj.CoreCompileInputs.cache
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\obj\Debug\net8.0\Shopverse.Domain.dll
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\obj\Debug\net8.0\refint\Shopverse.Domain.dll
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\obj\Debug\net8.0\Shopverse.Domain.pdb
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\obj\Debug\net8.0\ref\Shopverse.Domain.dll

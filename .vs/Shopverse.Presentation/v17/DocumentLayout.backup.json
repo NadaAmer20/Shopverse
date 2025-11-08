@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PNUStudentPortal\\Shopverse.Presentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Migrations\\20251108123243_createUserRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopverse.Infrastructure\\Migrations\\20251108123243_createUserRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\commands\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\commands\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F7A4D8-690E-4862-B6B3-503080C00902}|Shopverse.Presentation\\Shopverse.Presentation.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8F7A4D8-690E-4862-B6B3-503080C00902}|Shopverse.Presentation\\Shopverse.Presentation.csproj|solutionrelative:shopverse.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 510,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginUserHandler.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserHandler.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserHandler.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserHandler.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA3wCYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:30:34.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Shopverse.Presentation\\appsettings.json",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Presentation\\appsettings.json",
+              "RelativeToolTip": "Shopverse.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T12:30:08.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251108123243_createUserRoles.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Migrations\\20251108123243_createUserRoles.cs",
+              "RelativeDocumentMoniker": "Shopverse.Infrastructure\\Migrations\\20251108123243_createUserRoles.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Migrations\\20251108123243_createUserRoles.cs",
+              "RelativeToolTip": "Shopverse.Infrastructure\\Migrations\\20251108123243_createUserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:32:43.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
