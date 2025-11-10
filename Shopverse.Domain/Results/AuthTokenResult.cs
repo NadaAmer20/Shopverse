@@ -6,6 +6,6 @@ using System.Threading.Tasks;
 
 namespace Shopverse.Domain.Results
 {
-    public record AuthTokenResult(string Token, DateTime ExpiryDate);
+    public record AuthTokenResult(string Token, DateTime ExpiryDate , string newRefreshToken);
 
 }

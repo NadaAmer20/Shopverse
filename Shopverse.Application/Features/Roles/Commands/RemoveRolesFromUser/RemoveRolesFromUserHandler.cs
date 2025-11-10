@@ -23,13 +23,15 @@ namespace Shopverse.Application.Features.Roles.Commands.RemoveRolesFromUser
             if (user == null)
                 return ApiResponse<string>.Fail("User not found.");
 
-            user.UserRoles = user.UserRoles
-                .Where(ur => !request.RoleIds.Contains(ur.RoleId))
-                .ToList();
+            if (user.RoleId != request.RoleId)
+                return ApiResponse<string>.Fail("Role not assigned to user.");
+
+            user.RoleId = Guid.Empty;   
+            user.Role = null;   
 
             await _userRepo.UpdateAsync(user, ct);
 
-            return ApiResponse<string>.Success("Roles removed from user successfully.");
+            return ApiResponse<string>.Success("Role removed from user successfully.");
         }
     }
 }

@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Shopverse.Domain.Abstractions;
 using Shopverse.Domain.Entities;
-using Shopverse.Infrastructure.Context;
 using System;
 using System.Collections.Generic;
 using System.Linq;

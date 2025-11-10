@@ -9,6 +9,6 @@ using System.Threading.Tasks;
 
 namespace Shopverse.Application.Features.Identity.Commands.RegisterUser
 {
-    public record RegisterUserCommand(RegisterRequest Request) : IRequest<ApiResponse<Guid>>;
+    public record RegisterUserCommand(RegisterUserRequest Request) : IRequest<ApiResponse<Guid>>;
 
 }

@@ -33,14 +33,7 @@ namespace Shopverse.Infrastructure.Services.Security
             var issuer = jwt.GetValue<string>("Issuer");
             var audience = jwt.GetValue<string>("Audience");
 
-            var user = await _userRepo.GetSingleAsync(
-                u => u.Id == userId,
-                include => include
-                    .Include(u => u.UserRoles)
-                    .ThenInclude(ur => ur.Role)
-            );
-
-            var roles = user?.UserRoles.Select(ur => ur.Role.Key).ToList() ?? new List<string>();
+            var user = await _userRepo.GetSingleAsync(u => u.Id == userId);
 
             var claims = new List<Claim>
             {
@@ -49,7 +42,62 @@ namespace Shopverse.Infrastructure.Services.Security
                 new Claim("email", email)
             };
 
-            claims.AddRange(roles.Select(role => new Claim(ClaimTypes.Role, role)));
+            claims.Add(new Claim(ClaimTypes.Role, user.Role.Name));
+
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secret));
+            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+
+            var token = new JwtSecurityToken(
+                issuer,
+                audience,
+                claims,
+                expires: DateTime.UtcNow.AddDays(7), 
+                signingCredentials: creds
+            );
+
+            var tokenStr = new JwtSecurityTokenHandler().WriteToken(token);
+            var refreshToken = GenerateRefreshToken();
+
+            user.RefreshToken = refreshToken;   
+            await _userRepo.UpdateAsync(user, CancellationToken.None);  
+
+            return new AuthTokenResult(tokenStr, token.ValidTo, refreshToken);
+        }
+
+        private string GenerateRefreshToken()
+        {
+            var randomNumber = new byte[32];
+            using (var rng = System.Security.Cryptography.RandomNumberGenerator.Create())
+            {
+                rng.GetBytes(randomNumber);
+            }
+            return Convert.ToBase64String(randomNumber);
+        }
+
+        public async Task<AuthTokenResult> RefreshToken(string refreshToken)
+        {
+            var user = await _userRepo.GetSingleAsync(u => u.RefreshToken == refreshToken);
+
+            if (user == null)
+            {
+                throw new UnauthorizedAccessException("Invalid refresh token.");
+            }
+
+
+            // Now generate a new JWT
+            var jwt = _cfg.GetSection("Jwt");
+            var secret = jwt.GetValue<string>("Secret")!;
+            var issuer = jwt.GetValue<string>("Issuer");
+            var audience = jwt.GetValue<string>("Audience");
+
+            var claims = new List<Claim>
+            {
+                new Claim("id", user.Id.ToString()),
+                new Claim("username", user.Username),
+                new Claim("email", user.Email)
+            };
+
+            claims.Add(new Claim(ClaimTypes.Role, user.Role.Name));
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secret));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
@@ -64,7 +112,19 @@ namespace Shopverse.Infrastructure.Services.Security
 
             var tokenStr = new JwtSecurityTokenHandler().WriteToken(token);
 
-            return new AuthTokenResult(tokenStr, token.ValidTo);
+             var newRefreshToken = GenerateRefreshToken();
+            user.RefreshToken = newRefreshToken;
+            await _userRepo.UpdateAsync(user, CancellationToken.None);
+
+            return new AuthTokenResult(tokenStr, token.ValidTo, newRefreshToken);
+        }
+        public string GetEmailFromToken(string token)
+        {
+            var handler = new JwtSecurityTokenHandler();
+            var jsonToken = handler.ReadToken(token) as JwtSecurityToken;
+            var emailClaim = jsonToken?.Claims.FirstOrDefault(c => c.Type == "email");
+
+            return emailClaim?.Value;
         }
     }
 }

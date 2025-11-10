@@ -20,7 +20,6 @@ namespace Shopverse.Application.Features.Roles.Commands.DeleteRole
         public async Task<ApiResponse<string>> Handle(DeleteRoleCommand request, CancellationToken ct)
         {
             var role = await _roleRepo.GetQueryable()
-                .Include(r => r.UserRoles)
                 .FirstOrDefaultAsync(r => r.Id == request.RoleId, ct);
 
             if (role == null)
@@ -28,7 +27,6 @@ namespace Shopverse.Application.Features.Roles.Commands.DeleteRole
                 return ApiResponse<string>.Fail("Role not found.");
             }
 
-            role.UserRoles.Clear();
 
             await _roleRepo.RemoveAsync(role, ct);
 

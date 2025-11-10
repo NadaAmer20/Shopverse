@@ -8,5 +8,5 @@ using System.Threading.Tasks;
 
 namespace Shopverse.Application.Features.Roles.Commands.RemoveRolesFromUser
 {
-    public record RemoveRolesFromUserCommand(Guid UserId, List<Guid> RoleIds) : IRequest<ApiResponse<string>>;
+    public record RemoveRolesFromUserCommand(Guid UserId, Guid RoleId) : IRequest<ApiResponse<string>>;
 }

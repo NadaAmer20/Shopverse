@@ -7,7 +7,14 @@ using System.Threading.Tasks;
 namespace Shopverse.Application.DTOs.User
 {
 
-    public record RegisterRequest(string Name, string Username, string Email, string Password);
+    public class RegisterUserRequest
+    {
+        public string Username { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
+        public string PhoneNumber { get; set; } = string.Empty;  
+        public Guid RoleId { get; set; } 
+    }
     public record LoginRequest(string UsernameOrEmail, string Password);
     public record VerifyOtpRequest(string UsernameOrEmail, string Code);
     public record ForgotPasswordRequest(string Email);

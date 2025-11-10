@@ -8,6 +8,6 @@ using System.Threading.Tasks;
 
 namespace Shopverse.Application.Features.Roles.Commands.AssignRolesToUser
 {
-    public record AssignRolesToUserCommand(Guid UserId, List<Guid> RoleIds) : IRequest<ApiResponse<string>>;
+    public record AssignRolesToUserCommand(Guid UserId, Guid RoleId) : IRequest<ApiResponse<string>>;
 
 }

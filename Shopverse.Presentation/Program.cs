@@ -5,7 +5,6 @@ using Shopverse.Application.Features.Identity.Commands.RegisterUser;
 using Shopverse.Domain.Abstractions;
 using Shopverse.Domain.Entities;
 using Shopverse.Infrastructure;
-using Shopverse.Infrastructure.Context;
 using Shopverse.Infrastructure.Seeder.Settings;
 using Shopverse.Presentation.Middleware;
 using System;

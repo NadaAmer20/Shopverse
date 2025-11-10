@@ -13,7 +13,6 @@ using Shopverse.Domain.Interfaces.Attachments;
 using Shopverse.Domain.Interfaces.Communication;
 using Shopverse.Domain.Interfaces.OTP;
 using Shopverse.Domain.Interfaces.Security;
-using Shopverse.Infrastructure.Context;
 using Shopverse.Infrastructure.Services;
 using Shopverse.Infrastructure.Services.Attachments;
 using Shopverse.Infrastructure.Services.Communication;

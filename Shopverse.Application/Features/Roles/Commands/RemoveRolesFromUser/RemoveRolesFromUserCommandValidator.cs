@@ -9,9 +9,8 @@ namespace Shopverse.Application.Features.Roles.Commands.RemoveRolesFromUser
             RuleFor(x => x.UserId)
                 .NotEmpty().WithMessage("UserId is required.");
 
-            RuleFor(x => x.RoleIds)
-                .NotNull().WithMessage("RoleIds are required.")
-                .Must(ids => ids.Any()).WithMessage("At least one role must be provided.");
+            RuleFor(x => x.RoleId)
+                .NotNull().WithMessage("RoleIds are required.");
         }
     }
 }

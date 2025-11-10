@@ -4,7 +4,6 @@ using Shopverse.Application.Responses;
 using Shopverse.Domain.Abstractions;
 using Shopverse.Domain.Entities;
 using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
@@ -24,31 +23,28 @@ namespace Shopverse.Application.Features.Roles.Commands.AssignRolesToUser
 
         public async Task<ApiResponse<string>> Handle(AssignRolesToUserCommand request, CancellationToken ct)
         {
+            // البحث عن المستخدم
             var user = await _userRepo.GetQueryable()
-                .Include(u => u.UserRoles)
                 .FirstOrDefaultAsync(u => u.Id == request.UserId, ct);
 
             if (user == null)
                 return ApiResponse<string>.Fail("User not found.");
 
-            var roles = await _roleRepo.GetAllAsync(r => request.RoleIds.Contains(r.Id), ct);
+            var role = await _roleRepo.GetQueryable()
+                .FirstOrDefaultAsync(r => r.Id == request.RoleId, ct);   
 
-            var toRemove = user.UserRoles
-                .Where(ur => !request.RoleIds.Contains(ur.RoleId))
-                .ToList();
+            if (role == null)
+                return ApiResponse<string>.Fail("Role not found.");
 
-            foreach (var ur in toRemove)
-                user.UserRoles.Remove(ur);
+            if (user.RoleId == role.Id)
+                return ApiResponse<string>.Fail("User already has this role.");
 
-            foreach (var role in roles)
-            {
-                if (!user.UserRoles.Any(ur => ur.RoleId == role.Id))
-                    user.UserRoles.Add(new UserRole { UserId = user.Id, RoleId = role.Id });
-            }
+            user.RoleId = role.Id;
+            user.Role = role;
 
             await _userRepo.UpdateAsync(user, ct);
 
-            return ApiResponse<string>.Success("Roles assigned to user successfully.");
+            return ApiResponse<string>.Success("Role assigned to user successfully.");
         }
     }
 }

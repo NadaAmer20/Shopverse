@@ -13,3 +13,4 @@ D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\obj\Debug\net8.
 D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\obj\Debug\net8.0\refint\Shopverse.Application.dll
 D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\obj\Debug\net8.0\Shopverse.Application.pdb
 D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\obj\Debug\net8.0\ref\Shopverse.Application.dll
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Application\obj\Debug\net8.0\Shopverse.Application.sourcelink.json

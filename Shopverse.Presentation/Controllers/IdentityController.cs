@@ -2,10 +2,11 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Shopverse.Application.Features.Identity.Commands.RegisterUser;
 using Shopverse.Application.DTOs.User;
+using Shopverse.Application.Features.Identity.Commands.ActivateUser;
 using Shopverse.Application.Features.Identity.Commands.ForgotPassword;
 using Shopverse.Application.Features.Identity.Commands.LoginUser;
+using Shopverse.Application.Features.Identity.Commands.RegisterUser;
 using Shopverse.Application.Features.Identity.Commands.ResetPassword;
 using Shopverse.Application.Features.Identity.Commands.VerifyOtp;
 
@@ -18,8 +19,21 @@ namespace Shopverse.Presentation.Controllers
         private readonly IMediator _mediator;
         public IdentityController(IMediator mediator) { _mediator = mediator; }
 
+        [HttpPost("activate-account")]
+        public async Task<IActionResult> ActivateAccount([FromBody] ActivateUserCommand command)
+        {
+            var result = await _mediator.Send(command);
+            if (result.IsSuccess)
+            {
+                return Ok(result);
+            }
+
+            return BadRequest(result);
+        }
+
+
         [HttpPost("register")]
-        public async Task<IActionResult> Register([FromBody] RegisterRequest dto)
+        public async Task<IActionResult> Register([FromBody] RegisterUserRequest dto)
         {
             var result = await _mediator.Send(new RegisterUserCommand(dto));
 

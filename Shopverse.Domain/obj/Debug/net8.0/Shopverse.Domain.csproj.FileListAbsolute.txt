@@ -9,3 +9,4 @@ D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\obj\Debug\net8.0\Sho
 D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\obj\Debug\net8.0\refint\Shopverse.Domain.dll
 D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\obj\Debug\net8.0\Shopverse.Domain.pdb
 D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\obj\Debug\net8.0\ref\Shopverse.Domain.dll
+D:\PNUStudentPortal\Shopverse.Presentation\Shopverse.Domain\obj\Debug\net8.0\Shopverse.Domain.sourcelink.json

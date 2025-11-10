@@ -23,8 +23,7 @@ namespace Shopverse.Application.Features.Identity.Queries.GetUsers
         public async Task<ApiResponse<List<UserDto>>> Handle(GetUsersQuery request, CancellationToken cancellationToken)
         {
             var query = _userRepo.GetQueryable()
-                .Include(u => u.UserRoles)
-                .ThenInclude(ur => ur.Role);
+                .Include(ur => ur.Role);
 
             var allUsers = await query.ToListAsync(cancellationToken);
             List<User> users;
@@ -51,15 +50,14 @@ namespace Shopverse.Application.Features.Identity.Queries.GetUsers
             var dtos = users.Select(u => new UserDto
             {
                 Id = u.Id,
-                Name = u.Name,
                 Username = u.Username,
                 Email = u.Email,
                 IsActive = u.IsActive,
-                Roles = u.UserRoles.Select(ur => new RoleDto
+                Role = u.Role != null ? new RoleDto
                 {
-                    Id = ur.Role.Id,
-                    Name = ur.Role.Name
-                }).ToList()
+                    Id = u.Role.Id,
+                    Name = u.Role.Name
+                } : null
             }).ToList();
 
             return ApiResponse<List<UserDto>>.Success(dtos, "Users fetched successfully", pagination);

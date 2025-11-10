@@ -23,8 +23,6 @@ namespace Shopverse.Application.Features.Identity.Queries.GetUserById
         public async Task<ApiResponse<UserDto?>> Handle(GetUserByIdQuery request, CancellationToken cancellationToken)
         {
             var userQuery = _userRepo.GetQueryable()
-                                     .Include(u => u.UserRoles)
-                                     .ThenInclude(ur => ur.Role)
                                      .Where(u => u.Id == request.UserId);
 
             var user = await userQuery.FirstOrDefaultAsync(cancellationToken);
@@ -35,18 +33,18 @@ namespace Shopverse.Application.Features.Identity.Queries.GetUserById
             var dto = new UserDto
             {
                 Id = user.Id,
-                Name = user.Name,
                 Username = user.Username,
                 Email = user.Email,
                 IsActive = user.IsActive,
-                Roles = user.UserRoles.Select(ur => new RoleDto
+                Role = user.Role != null ? new RoleDto
                 {
-                    Id = ur.Role.Id,
-                    Name = ur.Role.Name
-                }).ToList()
+                    Id = user.Role.Id,
+                    Name = user.Role.Name
+                } : null  
             };
 
             return ApiResponse<UserDto?>.Success(dto, "User fetched successfully.");
         }
+
     }
 }

@@ -58,16 +58,16 @@ namespace Shopverse.Presentation.Controllers
         }
 
         [HttpPost("users/{userId}/assign-roles")]
-        public async Task<IActionResult> AssignRolesToUser(Guid userId, [FromBody] List<Guid> roleIds)
+        public async Task<IActionResult> AssignRolesToUser(Guid userId, [FromBody] Guid roleId)
         {
-            var result = await _mediator.Send(new AssignRolesToUserCommand(userId, roleIds));
+            var result = await _mediator.Send(new AssignRolesToUserCommand(userId, roleId));
             return Ok(result);
         }
 
         [HttpPost("users/{userId}/remove-roles")]
-        public async Task<IActionResult> RemoveRolesFromUser(Guid userId, [FromBody] List<Guid> roleIds)
+        public async Task<IActionResult> RemoveRolesFromUser(Guid userId, [FromBody]Guid roleId)
         {
-            var result = await _mediator.Send(new RemoveRolesFromUserCommand(userId, roleIds));
+            var result = await _mediator.Send(new RemoveRolesFromUserCommand(userId, roleId));
             return Ok(result);
         }
     }

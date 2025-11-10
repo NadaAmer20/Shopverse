@@ -3,16 +3,192 @@
   "WorkspaceRootPath": "D:\\PNUStudentPortal\\Shopverse.Presentation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\commands\\activateuser\\activateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\commands\\activateuser\\activateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F7A4D8-690E-4862-B6B3-503080C00902}|Shopverse.Presentation\\Shopverse.Presentation.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.presentation\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F7A4D8-690E-4862-B6B3-503080C00902}|Shopverse.Presentation\\Shopverse.Presentation.csproj|solutionrelative:shopverse.presentation\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F7A4D8-690E-4862-B6B3-503080C00902}|Shopverse.Presentation\\Shopverse.Presentation.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.presentation\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F7A4D8-690E-4862-B6B3-503080C00902}|Shopverse.Presentation\\Shopverse.Presentation.csproj|solutionrelative:shopverse.presentation\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\commands\\registeruser\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\commands\\registeruser\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\commands\\activateuser\\activateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\commands\\activateuser\\activateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D8F25F-E2EF-451F-83EA-80F8A93A0087}|Shopverse.Infrastructure\\Shopverse.Infrastructure.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.infrastructure\\security\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D8F25F-E2EF-451F-83EA-80F8A93A0087}|Shopverse.Infrastructure\\Shopverse.Infrastructure.csproj|solutionrelative:shopverse.infrastructure\\security\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\behaviors\\paginationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\behaviors\\paginationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D8F25F-E2EF-451F-83EA-80F8A93A0087}|Shopverse.Infrastructure\\Shopverse.Infrastructure.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.infrastructure\\seeder\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D8F25F-E2EF-451F-83EA-80F8A93A0087}|Shopverse.Infrastructure\\Shopverse.Infrastructure.csproj|solutionrelative:shopverse.infrastructure\\seeder\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D8F25F-E2EF-451F-83EA-80F8A93A0087}|Shopverse.Infrastructure\\Shopverse.Infrastructure.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.infrastructure\\communication\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D8F25F-E2EF-451F-83EA-80F8A93A0087}|Shopverse.Infrastructure\\Shopverse.Infrastructure.csproj|solutionrelative:shopverse.infrastructure\\communication\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D8F25F-E2EF-451F-83EA-80F8A93A0087}|Shopverse.Infrastructure\\Shopverse.Infrastructure.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.infrastructure\\communication\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D8F25F-E2EF-451F-83EA-80F8A93A0087}|Shopverse.Infrastructure\\Shopverse.Infrastructure.csproj|solutionrelative:shopverse.infrastructure\\communication\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\commands\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\commands\\loginuser\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Migrations\\20251108123243_createUserRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopverse.Infrastructure\\Migrations\\20251108123243_createUserRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\commands\\loginuser\\loginusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\commands\\loginuser\\loginusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\commands\\verifyotp\\verifyotphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\commands\\verifyotp\\verifyotphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\commands\\verifyotp\\verifyotpcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\commands\\verifyotp\\verifyotpcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\commands\\registeruser\\registerusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\commands\\registeruser\\registerusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Migrations\\20251110181832_updateusersagainaddtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopverse.Infrastructure\\Migrations\\20251110181832_updateusersagainaddtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.domain\\interfaces\\security\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|solutionrelative:shopverse.domain\\interfaces\\security\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.domain\\results\\authtokenresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|solutionrelative:shopverse.domain\\results\\authtokenresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|solutionrelative:shopverse.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D8F25F-E2EF-451F-83EA-80F8A93A0087}|Shopverse.Infrastructure\\Shopverse.Infrastructure.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D8F25F-E2EF-451F-83EA-80F8A93A0087}|Shopverse.Infrastructure\\Shopverse.Infrastructure.csproj|solutionrelative:shopverse.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\dtos\\user\\identitydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\dtos\\user\\identitydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\queries\\getuserbyid\\getuserbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\queries\\getuserbyid\\getuserbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\queries\\getusers\\getusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\queries\\getusers\\getusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\queries\\getusers\\getusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\queries\\getusers\\getusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\dtos\\roles\\createrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\dtos\\roles\\createrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|solutionrelative:shopverse.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8F7A4D8-690E-4862-B6B3-503080C00902}|Shopverse.Presentation\\Shopverse.Presentation.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D8F7A4D8-690E-4862-B6B3-503080C00902}|Shopverse.Presentation\\Shopverse.Presentation.csproj|solutionrelative:shopverse.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\roles\\commands\\deleterole\\deleterolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\roles\\commands\\deleterole\\deleterolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\roles\\commands\\removerolesfromuser\\removerolesfromuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\roles\\commands\\removerolesfromuser\\removerolesfromuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.domain\\entities\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|solutionrelative:shopverse.domain\\entities\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|solutionrelative:shopverse.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.domain\\entities\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|solutionrelative:shopverse.domain\\entities\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.domain\\entities\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|solutionrelative:shopverse.domain\\entities\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\commands\\resetpassword\\resetpasswordcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\commands\\resetpassword\\resetpasswordcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\commands\\resetpassword\\resetpasswordhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\commands\\resetpassword\\resetpasswordhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\roles\\commands\\createrole\\createrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\roles\\commands\\createrole\\createrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\roles\\commands\\createrole\\createrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\roles\\commands\\createrole\\createrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\roles\\commands\\createrole\\createrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\roles\\commands\\createrole\\createrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\roles\\commands\\removerolesfromuser\\removerolesfromusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\roles\\commands\\removerolesfromuser\\removerolesfromusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\roles\\commands\\removerolesfromuser\\removerolesfromusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\roles\\commands\\removerolesfromuser\\removerolesfromusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\roles\\commands\\assignrolestouser\\assignrolestousercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\roles\\commands\\assignrolestouser\\assignrolestousercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\roles\\commands\\assignrolestouser\\assignrolestousercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\roles\\commands\\assignrolestouser\\assignrolestousercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\roles\\commands\\assignrolestouser\\assignrolestouserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\roles\\commands\\assignrolestouser\\assignrolestouserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.domain\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF70E97C-722A-4543-982C-9E06EB220FB0}|Shopverse.Domain\\Shopverse.Domain.csproj|solutionrelative:shopverse.domain\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|d:\\pnustudentportal\\shopverse.presentation\\shopverse.application\\features\\identity\\commands\\resetpassword\\resetpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF72A-93B8-5295-0B69-CA9565CFDF6B}|Shopverse.Application\\Shopverse.Application.csproj|solutionrelative:shopverse.application\\features\\identity\\commands\\resetpassword\\resetpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +198,20 @@
       "DocumentGroups": [
         {
           "DockedHeight": 510,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginUserHandler.cs",
-              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserHandler.cs",
-              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserHandler.cs",
-              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserHandler.cs",
-              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserHandler.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAIA3wCMAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Shopverse.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Shopverse.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:30:34.496Z",
+              "WhenOpened": "2025-11-10T16:28:06.775Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -44,38 +221,610 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Presentation\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Shopverse.Presentation\\Controllers\\RolesController.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Presentation\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Shopverse.Presentation\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:31:01.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterUserHandler.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\RegisterUser\\RegisterUserHandler.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Commands\\RegisterUser\\RegisterUserHandler.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\RegisterUser\\RegisterUserHandler.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Commands\\RegisterUser\\RegisterUserHandler.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:43:51.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Seeder\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "Shopverse.Infrastructure\\Seeder\\DatabaseSeeder.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Seeder\\DatabaseSeeder.cs",
+              "RelativeToolTip": "Shopverse.Infrastructure\\Seeder\\DatabaseSeeder.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwDUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:02:43.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActivateUserHandler.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\ActivateUser\\ActivateUserHandler.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Commands\\ActivateUser\\ActivateUserHandler.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\ActivateUser\\ActivateUserHandler.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Commands\\ActivateUser\\ActivateUserHandler.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:16:47.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentityController.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Presentation\\Controllers\\IdentityController.cs",
+              "RelativeDocumentMoniker": "Shopverse.Presentation\\Controllers\\IdentityController.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Presentation\\Controllers\\IdentityController.cs",
+              "RelativeToolTip": "Shopverse.Presentation\\Controllers\\IdentityController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:45:08.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaginationBehavior.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Behaviors\\PaginationBehavior.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Behaviors\\PaginationBehavior.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Behaviors\\PaginationBehavior.cs",
+              "RelativeToolTip": "Shopverse.Application\\Behaviors\\PaginationBehavior.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:02:44.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Security\\JwtService.cs",
+              "RelativeDocumentMoniker": "Shopverse.Infrastructure\\Security\\JwtService.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Security\\JwtService.cs",
+              "RelativeToolTip": "Shopverse.Infrastructure\\Security\\JwtService.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAHoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:24:23.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterUserCommandValidator.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:43:50.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActivateUserCommand.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\ActivateUser\\ActivateUserCommand.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Commands\\ActivateUser\\ActivateUserCommand.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\ActivateUser\\ActivateUserCommand.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Commands\\ActivateUser\\ActivateUserCommand.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:16:28.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SmtpSettings.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Communication\\SmtpSettings.cs",
+              "RelativeDocumentMoniker": "Shopverse.Infrastructure\\Communication\\SmtpSettings.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Communication\\SmtpSettings.cs",
+              "RelativeToolTip": "Shopverse.Infrastructure\\Communication\\SmtpSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:22:00.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SmtpEmailService.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Communication\\SmtpEmailService.cs",
+              "RelativeDocumentMoniker": "Shopverse.Infrastructure\\Communication\\SmtpEmailService.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Communication\\SmtpEmailService.cs",
+              "RelativeToolTip": "Shopverse.Infrastructure\\Communication\\SmtpEmailService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv0QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:21:57.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VerifyOtpCommandValidator.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\VerifyOtp\\VerifyOtpCommandValidator.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Commands\\VerifyOtp\\VerifyOtpCommandValidator.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\VerifyOtp\\VerifyOtpCommandValidator.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Commands\\VerifyOtp\\VerifyOtpCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:10:15.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VerifyOtpHandler.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\VerifyOtp\\VerifyOtpHandler.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Commands\\VerifyOtp\\VerifyOtpHandler.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\VerifyOtp\\VerifyOtpHandler.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Commands\\VerifyOtp\\VerifyOtpHandler.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:10:17.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginUserCommandValidator.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserCommandValidator.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserCommandValidator.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:09:51.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginUserHandler.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserHandler.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserHandler.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserHandler.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Commands\\LoginUser\\LoginUserHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:30:34.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:00:45.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthTokenResult.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Results\\AuthTokenResult.cs",
+              "RelativeDocumentMoniker": "Shopverse.Domain\\Results\\AuthTokenResult.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Results\\AuthTokenResult.cs",
+              "RelativeToolTip": "Shopverse.Domain\\Results\\AuthTokenResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:14:16.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Interfaces\\Security\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Shopverse.Domain\\Interfaces\\Security\\IJwtService.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Interfaces\\Security\\IJwtService.cs",
+              "RelativeToolTip": "Shopverse.Domain\\Interfaces\\Security\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:16:02.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetUserByIdHandler.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Queries\\GetUserById\\GetUserByIdHandler.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Queries\\GetUserById\\GetUserByIdHandler.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Queries\\GetUserById\\GetUserByIdHandler.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Queries\\GetUserById\\GetUserByIdHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:25:58.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetUsersQuery.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Queries\\GetUsers\\GetUsersQuery.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Queries\\GetUsers\\GetUsersQuery.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Queries\\GetUsers\\GetUsersQuery.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Queries\\GetUsers\\GetUsersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:09:13.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IdentityDtos.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\DTOs\\User\\IdentityDtos.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\DTOs\\User\\IdentityDtos.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\DTOs\\User\\IdentityDtos.cs",
+              "RelativeToolTip": "Shopverse.Application\\DTOs\\User\\IdentityDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:46:06.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Shopverse.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Shopverse.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAvwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:34:40.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetUsersHandler.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Queries\\GetUsers\\GetUsersHandler.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Queries\\GetUsers\\GetUsersHandler.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Queries\\GetUsers\\GetUsersHandler.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Queries\\GetUsers\\GetUsersHandler.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAArwDEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:24:31.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateRoleRequest.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\DTOs\\Roles\\CreateRoleRequest.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\DTOs\\Roles\\CreateRoleRequest.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\DTOs\\Roles\\CreateRoleRequest.cs",
+              "RelativeToolTip": "Shopverse.Application\\DTOs\\Roles\\CreateRoleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:01:23.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Shopverse.Domain\\Entities\\Role.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "Shopverse.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:28:05.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\DTOs\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\DTOs\\User\\UserDto.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\DTOs\\User\\UserDto.cs",
+              "RelativeToolTip": "Shopverse.Application\\DTOs\\User\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:25:18.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeleteRoleHandler.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Roles\\Commands\\DeleteRole\\DeleteRoleHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAewB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:26:33.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "Shopverse.Presentation\\appsettings.json",
               "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Presentation\\appsettings.json",
               "RelativeToolTip": "Shopverse.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-08T12:30:08.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RemoveRolesFromUserHandler.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\RemoveRolesFromUser\\RemoveRolesFromUserHandler.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Roles\\Commands\\RemoveRolesFromUser\\RemoveRolesFromUserHandler.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\RemoveRolesFromUser\\RemoveRolesFromUserHandler.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Roles\\Commands\\RemoveRolesFromUser\\RemoveRolesFromUserHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:32:01.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OtpVerification.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Entities\\OtpVerification.cs",
+              "RelativeDocumentMoniker": "Shopverse.Domain\\Entities\\OtpVerification.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Entities\\OtpVerification.cs",
+              "RelativeToolTip": "Shopverse.Domain\\Entities\\OtpVerification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:15:02.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Entities\\Seller.cs",
+              "RelativeDocumentMoniker": "Shopverse.Domain\\Entities\\Seller.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Entities\\Seller.cs",
+              "RelativeToolTip": "Shopverse.Domain\\Entities\\Seller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:26:18.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Entities\\Setting.cs",
+              "RelativeDocumentMoniker": "Shopverse.Domain\\Entities\\Setting.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Entities\\Setting.cs",
+              "RelativeToolTip": "Shopverse.Domain\\Entities\\Setting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:28:22.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Shopverse.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Shopverse.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:28:29.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ResetPasswordHandler.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\ResetPassword\\ResetPasswordHandler.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Commands\\ResetPassword\\ResetPasswordHandler.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\ResetPassword\\ResetPasswordHandler.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Commands\\ResetPassword\\ResetPasswordHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvzEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:21:04.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateRoleValidator.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleValidator.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleValidator.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleValidator.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:34:20.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateRoleCommand.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleCommand.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleCommand.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleCommand.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:28:44.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ResetPasswordCommandValidator.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\ResetPassword\\ResetPasswordCommandValidator.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Commands\\ResetPassword\\ResetPasswordCommandValidator.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\ResetPassword\\ResetPasswordCommandValidator.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Commands\\ResetPassword\\ResetPasswordCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:21:01.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RemoveRolesFromUserCommandValidator.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\RemoveRolesFromUser\\RemoveRolesFromUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Roles\\Commands\\RemoveRolesFromUser\\RemoveRolesFromUserCommandValidator.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\RemoveRolesFromUser\\RemoveRolesFromUserCommandValidator.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Roles\\Commands\\RemoveRolesFromUser\\RemoveRolesFromUserCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:34:04.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RemoveRolesFromUserCommand.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\RemoveRolesFromUser\\RemoveRolesFromUserCommand.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Roles\\Commands\\RemoveRolesFromUser\\RemoveRolesFromUserCommand.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\RemoveRolesFromUser\\RemoveRolesFromUserCommand.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Roles\\Commands\\RemoveRolesFromUser\\RemoveRolesFromUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:31:52.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AssignRolesToUserCommandValidator.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\AssignRolesToUser\\AssignRolesToUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Roles\\Commands\\AssignRolesToUser\\AssignRolesToUserCommandValidator.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\AssignRolesToUser\\AssignRolesToUserCommandValidator.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Roles\\Commands\\AssignRolesToUser\\AssignRolesToUserCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:28:54.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AssignRolesToUserCommand.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\AssignRolesToUser\\AssignRolesToUserCommand.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Roles\\Commands\\AssignRolesToUser\\AssignRolesToUserCommand.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\AssignRolesToUser\\AssignRolesToUserCommand.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Roles\\Commands\\AssignRolesToUser\\AssignRolesToUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:28:55.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateRoleHandler.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleHandler.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleHandler.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleHandler.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Roles\\Commands\\CreateRole\\CreateRoleHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:28:45.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AssignRolesToUserHandler.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\AssignRolesToUser\\AssignRolesToUserHandler.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Roles\\Commands\\AssignRolesToUser\\AssignRolesToUserHandler.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Roles\\Commands\\AssignRolesToUser\\AssignRolesToUserHandler.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Roles\\Commands\\AssignRolesToUser\\AssignRolesToUserHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwBcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:28:56.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Entities\\Attachment.cs",
+              "RelativeDocumentMoniker": "Shopverse.Domain\\Entities\\Attachment.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Domain\\Entities\\Attachment.cs",
+              "RelativeToolTip": "Shopverse.Domain\\Entities\\Attachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:28:31.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ResetPasswordCommand.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\ResetPassword\\ResetPasswordCommand.cs",
+              "RelativeDocumentMoniker": "Shopverse.Application\\Features\\Identity\\Commands\\ResetPassword\\ResetPasswordCommand.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Application\\Features\\Identity\\Commands\\ResetPassword\\ResetPasswordCommand.cs",
+              "RelativeToolTip": "Shopverse.Application\\Features\\Identity\\Commands\\ResetPassword\\ResetPasswordCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:21:03.275Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedHeight": 205,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20251108123243_createUserRoles.cs",
-              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Migrations\\20251108123243_createUserRoles.cs",
-              "RelativeDocumentMoniker": "Shopverse.Infrastructure\\Migrations\\20251108123243_createUserRoles.cs",
-              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Migrations\\20251108123243_createUserRoles.cs",
-              "RelativeToolTip": "Shopverse.Infrastructure\\Migrations\\20251108123243_createUserRoles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:32:43.753Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251110181832_updateusersagainaddtoken.cs",
+              "DocumentMoniker": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Migrations\\20251110181832_updateusersagainaddtoken.cs",
+              "RelativeDocumentMoniker": "Shopverse.Infrastructure\\Migrations\\20251110181832_updateusersagainaddtoken.cs",
+              "ToolTip": "D:\\PNUStudentPortal\\Shopverse.Presentation\\Shopverse.Infrastructure\\Migrations\\20251110181832_updateusersagainaddtoken.cs",
+              "RelativeToolTip": "Shopverse.Infrastructure\\Migrations\\20251110181832_updateusersagainaddtoken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:18:32.932Z",
+              "EditorCaption": ""
             }
           ]
         },
